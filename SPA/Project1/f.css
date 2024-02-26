@@ -1,0 +1,209 @@
+/*#footer{
+    height: 90vh;
+    background-color: rgb(24, 24, 81);
+    margin-top: 10vh;
+}
+#footer h1{
+    color: #3368c6;
+    font-size: 38px;
+    margin-left: 100px;
+    padding-top: 120px;
+}
+h1 span{
+    color: #fafafa;
+
+}
+#footer p{
+    font-size: 20px;
+    color: #ffffff80;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+#icons button{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: none;
+    font-size: 18px;
+    background-color: #3368c6;
+    
+}
+#icon{
+    margin-left: 100px;
+}
+#links h4{
+    font-size: 24px;
+    color: #f6faff;
+}
+#links a{
+    color: #ffffff80;
+}
+#links{
+    margin-left: 780px;
+    margin-top: -380px;
+}
+#links1{
+    margin-left: 1050px;
+    margin-top: -270px;
+}
+#links1 h4{
+    font-size: 24px;
+    color: #f6faff;
+}
+#links1 a{
+    color: #ffffff80;
+}
+a{
+    line-height: 35px;
+}
+#new{
+    font-size: 24px;
+    color: #f6faff;
+    margin-left: 780px;
+}
+input{
+    width: 316px;
+    height: 52px;
+}
+#new button{
+    width: 105px;
+    height: 57px;
+    margin-left: -5px;
+    background-color: #3368c6;
+    color: #fafafa;
+    font-size: 16px;
+    border: none;
+}
+#new button:hover{
+    background-color: #0f5de4;
+}
+
+
+
+
+
+
+div{
+    height: 200px;
+    width: 200px;
+
+    background-color: red;
+    position: relative;
+    animation-name: rajesh;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes rajesh{
+    0%{
+        background-color: red;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    20%{
+        background-color: blue;
+        margin-left: 400px;
+        margin-top: 0px;
+    }
+    40%{
+        background-color: green;
+        margin-top: 0px;
+        margin-left: 800px;
+        
+    }
+    60%{
+        background-color: violet;
+        margin-left: 800px;
+        margin-top: 400px;
+    }
+    80%{
+        background-color: aqua;
+        margin-left: 400px;
+        margin-top: 400px;
+    }
+    90%{
+        background-color: rgb(28, 30, 30);
+        margin-left: 0px;
+        margin-top: 400px;
+    }
+    100%{
+        background-color: red;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+}
+*/
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sky {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../sk.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.tree {
+    height: 600px;
+    background-image: url("../../../../../../Downloads/Untitled_design__18_-removebg-preview.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}  
+.track {
+    background-image: url("../../../../../../Downloads/road-removebg-preview.png");
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 0px;
+    width: 1000vw;
+    height: 30vh;
+    animation: trackanimation 10s linear infinite;
+}
+.car {
+    background-image: url("../car1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 17rem;
+    height: 4.699rem;
+    position: absolute;
+    bottom: 110px;
+    left: 408px;
+}
+.wheel {
+    position: absolute;
+    animation: wheelanimation linear 0.8s infinite;
+}
+.wheel1 {
+    background-image: url("../../../../../../Downloads/wheel-removebg-preview.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 53px;
+    height: 53px;
+    bottom: 78px;
+    left: 595px;
+}
+.wheel2 {
+    background-image: url("../../../../../../Downloads/wheel-removebg-preview.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 53Px;
+    height: 53px;
+    bottom: 77px;
+    left: 430px;
+}
+
+@keyframes wheelanimation{
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@keyframes trackanimation {
+    100% {
+        transform: translate(-300vw);
+    }
+}

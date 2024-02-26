@@ -1,0 +1,417 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    #navbar{
+        width: 100%;
+        height: 90px;
+        background-color: #ffffff;
+        text-align: center;
+        position: sticky;
+        top: 0;
+        padding-top: 45px;
+    }
+    #navbar a{
+        padding-right: 80px;
+    }
+    #navbar a:hover{
+        color: blue;    
+    }
+    #navbar img{
+        height: 45px;
+        width: 45px;
+        padding-right: 80px;
+    }
+    #rajesh{
+        width: 100%;
+        height: 80vh;
+        text-align: center;
+        background-image: url("../Assets/images/Screenshot\ 2023-11-18\ 090901.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #rajesh h5{
+        font-size: 22px;
+        color: #ffffff;
+        padding-top: 140px;
+        padding-bottom: 20px;
+        letter-spacing: 2px;
+    }
+    #rajesh span{
+        font-size: 66px;
+        color: #ffffff;
+        padding-bottom: 50px;
+        letter-spacing: 3px;
+    }
+    #rajesh a{
+        font-size: 29px;
+        color: #ffffff;
+    }
+    #rajesh a:hover{
+        text-decoration: underline;
+    }
+    #raj{
+        width: 186px;
+        height: 43px;
+        letter-spacing: 3px;
+        border: 1px solid;
+        border-radius: 50px;
+        margin-top: 50px;
+    }
+    #raj:hover{
+        background-color: #0A2D63;
+        color: #ffffff;
+    }
+
+
+    #third{
+        width: 900px;
+        height: 240px;
+        border: 1px solid rgb(237, 235, 235);
+        text-align: center;
+        margin-top: 180px;
+        margin-bottom: 180px;
+        margin-left: 300px;
+        padding-top: 50px;
+        border-radius: 10px;
+    }
+    #third span{
+        font-size: 28px;
+        color: #0A2D63;
+    }
+    #third p{
+        padding-top: 50px;
+        color: #7f7f7f;
+    }
+    hr{
+        width: 80px;
+        margin-left: 420px
+    }
+    #container{
+        display: flex;
+        margin-left: 150px;
+    }
+    #treat h3{
+        font-size: 38px;
+        color: #0A2D63;
+        text-align: center;
+    }
+    #treat hr{
+        width: 80px;
+        margin-left: 699px
+    }
+    #yoga
+    {
+        height: 420px;
+        width: 330px;
+        text-align: center;
+        margin-top: 130px;
+        margin-right: 100px;
+        margin-bottom: 180px;   
+    }
+    #yoga img
+    {
+        height: 220px;
+        width: 330px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+    #yoga h5{
+        font-size: 25px;
+        color: #0A2D63;
+        margin-bottom: 10px;
+    }
+    #yoga h6{
+        color: #BEBEBE;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    #yoga p{
+        color: #7f7f7f;
+        margin-bottom: 20px;
+    }
+    #yoga a{
+        color: #0A2D63;
+        letter-spacing: 2px;
+    }
+    #yoga h5:hover{
+        text-decoration: underline #041024 ;
+    }
+    #yoga h6:hover{
+        text-decoration: underline #041024;
+    }
+    #yoga a:hover{
+        text-decoration: underline #041024;
+    }
+    #four{
+        width: 100%;
+        height: 80vh;
+        background-image: url("../Assets/images/Luxury-PFS-MA---Banner-for-MA-Study\ small.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-bottom: 180px;
+    }
+    #four h2{
+        font-size: 68px;
+        color: #ffffff;
+        margin-left: 810px;
+        padding-top : 200px;
+        letter-spacing: 5px;
+    }
+    #four p{
+        font-size: 25px;
+        color: #ffffff;
+        margin-left: 610px;
+        line-height: 35px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    #four button{
+        width: 186px;
+        height: 43px;
+        letter-spacing: 3px;
+        border: 1px solid;
+        border-radius: 50px;
+        margin-left: 920px;
+    }
+    #four button:hover{
+        background-color: #0A2D63;
+        color: #ffffff;
+    }
+    #five{
+        margin-left: 200px;
+        margin-bottom: 180px;
+    }
+    #five h2{
+        font-size: 32px;
+        color: #0A2D63;
+        margin-bottom: 15px;
+    }
+    #five p{
+        color: #7f7f7f;
+        line-height: 20px;
+        margin-bottom: 50px;
+    }
+    #pic img{
+        width: 524px;
+        height: 319px;
+        margin-left: 580px;
+        margin-top: -270px;
+        border-radius: 10px;
+    }
+    button{
+        width: 186px;
+        height: 43px;
+        letter-spacing: 3px;
+        border: 1px solid;
+        border-radius: 50px;
+    }
+    button:hover{
+        background-color: #0A2D63;
+        color: white;
+    }
+    #six{
+        width: 100%;
+        height: 80vh;
+        background-image: url("../Assets/images/lady\ and\ baby.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-bottom: 180px;
+    }
+    #six h2{
+        font-size: 68px;
+        color: #ffffff;
+        margin-left: 740px;
+        padding-top : 170px;
+        letter-spacing: 5px;
+    }
+    #six p{
+        font-size: 25px;
+        color: #ffffff;
+        margin-left: 550px;
+        line-height: 35px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    #six button{
+        width: 186px;
+        height: 43px;
+        letter-spacing: 3px;
+        border-radius: 50px;
+        margin-left: 920px;
+    }
+    #six button:hover{
+        background-color: #0A2D63;
+        color: #ffffff;
+    }
+
+    #seven{
+        width: 100%;
+        height: 70vh;
+        background-image: url("../Assets/images/Screenshot\ 2023-11-18\ 090901.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-bottom: 110px;
+    }
+    #seven h2{
+        font-size: 68px;
+        color: #ffffff;
+        text-align: center;
+        padding-top: 100px;
+
+    }
+    #seven p{
+        font-size: 17px;
+        text-align: center;
+        padding-top: 10px;
+        color: #ffffff;
+        font: bolder;
+
+    }
+    #seven button{
+        width: 179px;
+        height: 59px;
+        letter-spacing: 3px;
+        font-size: 18px;
+        border: 1px solid;
+        border-radius: 50px;
+        margin-top: 70px;
+        margin-left:650px;
+    }
+    #seven button:hover{
+        background-color: #0A2D63;
+        color: #ffffff;
+    }
+    #eight{
+        margin-bottom: 300px;
+    }
+    #eight1 img{
+        height: 190px;
+        width: 190px;
+        border-radius: 50%;
+        margin-top: 100px;
+        margin-left: 350px;
+    }
+    #up h6{
+        color: #0A2D63;
+        margin-left: 570px;
+        font-size: 18px;
+    }
+    #up p{
+        color: #7f7f7f;
+        margin-left: 570px;
+        margin-top: -150px;
+        padding-bottom: 20px;
+        line-height: 25px;
+    }
+    #up span{
+        color: #7f7f7f;
+        margin-left: 570px;
+    }
+    #nine{
+        height: 80vh;
+        margin-bottom: 100px;
+    }
+    #nine2{
+        height: 212px;
+        width: 212px;
+        float: left;
+        margin-left: 300px;
+        margin-top: 100px;
+        border-radius: 10px;
+    }
+    #nine1{
+        height: 212px;
+        width: 212px;
+        float: left;
+        margin-top: 100px;
+        border-radius: 10px;
+        margin-left: 20px;
+    }
+    #nine3{
+        height: 212px;
+        width: 212px;
+        float: left;
+        margin-top: 30px;
+        border-radius: 10px;
+        margin-left: 300px;
+    }
+    #nine4{
+        height: 212px;
+        width: 212px;
+        float: left;
+        margin-top: 30px;
+        border-radius: 10px;
+        margin-left: 20px;
+    }
+    #footer{
+        width: 100%;
+        height: 80vh;
+        background-color: #0A2D63;
+        color: white;
+    }
+    #foo{
+        padding-top: 50px;
+        text-align: center;
+        font-size: 17px;
+    }
+    #foo a{
+        padding-right: 50px;
+    }
+    #footer img{
+        margin-left: 650px;
+        margin-top: 30px;
+    }
+    #foot{
+        margin-top: 30px;
+    }
+    #foot a{
+        margin-top: 30px;
+        margin-left: 480px;
+    }
+    #one{
+        margin-left: 600px;
+        margin-top: -20px;
+        margin-bottom: -20px;
+    }
+    #two{
+        margin-left: 800px;
+    }
+    input{
+        width: 430px;
+        height: 45px;
+        margin-top: 70px;
+        margin-left: 400px;
+    }
+
+
+    #new {
+        width: 216px;
+        height: 45px;
+        letter-spacing: 3px;
+        margin-left: 20px;
+        color: #ffffff;
+        border-radius: 0%;
+        background-color: #0A2D63;
+        border: 2px solid #ffffff;
+    }
+    #new:hover{
+        background-color: #ffffff;
+        color: black;
+    }
+    #footer h6{
+        text-align: center;
+        margin-top: 30px;
+        font-size: 17px;
+        color: #7f7f7f;
+    }
+    #footer h6 a{
+        color: white;
+    }
+
+    

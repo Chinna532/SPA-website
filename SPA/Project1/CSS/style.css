@@ -1,0 +1,395 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#top{
+    width: 1300px;
+    height: 50px;
+    border: 1px solid #ffffff ;
+    background-color: black;
+    color: #B2B2B2;
+    padding-left: 170px;
+}
+#top p{
+    margin-top: 20px;
+}
+#top1{
+    margin-left: 750px;
+    margin-top: -20px;
+}
+#top1 button{
+background-color: black;
+color: #B2B2B2;
+border: none;
+padding-left: 40px;
+}
+#top1 button:hover{
+    color: #717FE0;
+}
+#navbar{
+    height: 70px;
+    background-color: #Fbfbfb;
+    position: sticky;
+    top: 0;
+    z-index: +5;
+}
+#navbar p{
+    height: 12px;
+    width: 25px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #f74877;
+    color: white;
+    font-size: 10px;
+    margin-left: 550px;
+}
+#navbar img{
+    margin-left: 170px;
+    margin-top: 10px;
+}
+#functions{
+    margin-left: 370px;
+    margin-top: -21px;  
+}
+#aa{
+    padding-left: 20px;
+    text-decoration: none;
+    color: #222222;
+}
+#icons{
+    margin-left: 830px;
+    margin-top: -18px;
+}
+#ic{
+    padding-right: 20px;
+}
+sup{
+    color: #717FE0;
+}
+#aa:hover{
+    color: #717FE0;
+}
+#aa:active{
+    color: #bb288f;
+}
+#ic:hover{
+    color: #717FE0;
+}
+#ic:active{
+    color: #717FE0;
+}
+#container{
+    height: auto;
+    background-color: rgb(247, 246, 246);
+}
+#image{
+    margin-left: 800px;
+    margin-top: -380px;
+}
+#infor{
+    line-height: 80px;
+    margin-left: 170px;
+    margin-top: 150px;
+}
+#infor p{
+    font-size: 28px;
+    color: #333333;
+}
+#infor h2{
+    font-size: 60px;
+    color: #333333;
+}
+#infor button{
+    width: 161px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: #717FE0;
+    color: #fafafa;
+    border: none;
+}
+#infor button:hover{
+    background-color: #222222;
+}
+
+#women{
+    width: 406px;
+    height: 257px;
+    border: 1px solid #c8c7c7;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 70px;
+}
+#but2{
+    width: 94px;
+    height: 35px;
+    margin-right: 5px;
+    margin-left: 400px;
+    background-color: #fafafa;
+    border: 1px  solid #999999;
+}
+#but3{
+    width: 94px;
+    height: 35px;
+    background-color: #fafafa;
+    border: 1px  solid #999999;
+}
+#but2:hover{
+    color: #fafafa;
+    background-color: #717FE0;
+}
+#but3:hover{
+    color: #fafafa;
+    background-color: #717FE0;
+}
+#girl{
+    font-size: 34px;
+    margin-top: -270px;
+    margin-left: 30px;
+    color: #333333;
+    line-height: 55px;
+}
+#year{
+    margin-left: 35px;
+    color: #555555;
+    font-size: 18px;
+}
+#women img{
+    width: 406px;
+    height: 257px;
+}
+#rajesh{
+    margin-left: 60px;
+}
+#now{
+    margin-left: 35px;
+    margin-top: 150px;
+    text-decoration: underline;
+}
+#women:hover img{
+    opacity: 0.3;
+}
+
+#new{
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-bottom: 400px;
+}
+#third h3{
+    font-size: 38px;
+    color: #222222;
+    margin-left: 60px; 
+}
+#but{
+    margin-top: 40px;
+  
+}
+#net{
+    color: #333333; 
+    padding-right: 40px;
+    margin-left: 60px;
+}
+#but1{
+    padding-right: 40px;
+    color: #888888;
+}
+#but1:hover{
+    color: #333333;
+    text-decoration: underline;
+}
+#fourth{
+    margin-top: 70px;
+    margin-left: 95px;
+}
+#values{
+    height: 380px;
+    width: 254px;  
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+#values img{
+    height: 325px;
+    width: 254px;
+    margin-bottom: 10px;
+}
+#values a{
+    color: #999999;
+    padding-top: 20px;
+    line-height: 25px;
+    padding-right: 68px;
+}
+#values a:hover{
+    color: #717FE0;
+}
+#values span{
+    color: #666666;
+}
+#values i:hover{
+    color: #f13231;
+
+}
+#finish button{
+    width: 179px;
+    height: 46px;
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-top: 70px;
+    border: none;
+    background-color: #aeacac;
+    margin-bottom: 70px;
+}
+#finish button a{
+    text-decoration: none;
+    color:#ffffff;
+}
+#finish button:hover{
+    background-color: #111111;
+    color: #fafafa;
+}
+#footer{
+    height: 460px;
+    background-color: #222222;
+    margin-top: -300px;
+}
+#cat{
+    padding-top:80px;
+    margin-left: 170px;
+}
+#cat h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: 16px;
+}   
+#cat a{
+    color: #B2B2B2;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+#cat1{
+    margin-left: 470px;
+    margin-top: -170px;
+}
+#cat1 h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+#cat1 a{
+    color: #B2B2B2;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+#cat a:hover{
+    color: #717FE0;
+}
+#cat1 a:hover{
+    color: #717FE0;
+}
+#cat2{
+    margin-left: 770px;
+    margin-top: -170px;
+}
+#cat2 h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+#cat2 p{
+    color: #B2B2B2;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+#cat2 i{
+    color: #B2B2B2;
+    padding-right: 20px;
+}
+#cat2 i:hover{
+    color: #717FE0;
+}
+#cat3{
+    margin-left: 1100px;
+    margin-top: -180px;
+}
+#cat3 h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+#cat3 input{
+    width: 250px;
+    background-color: transparent;
+    border-right: none;
+}
+#cat3 button{
+    width: 179px;
+    height: 46px;
+    border-radius: 50px;
+    color: #fafafa;
+    font-size: 16px;
+    border: none;
+    background-color: #717FE0;
+    border: 1px solid #555555;
+    margin-top: 20px;
+}
+#cat3 button:hover{
+    background-color: #fafafa;
+    color: #666565;
+}
+#cat4{
+    margin-left: 600px;
+    margin-top: 150px;
+}
+#fix{
+    color: #888888;
+    text-align: center;
+    margin-top: 10px;
+}
+#fix a{
+    text-decoration: none;
+    color: #717FE0;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    position: relative;
+    width: 100%;
+  }
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+  
+.container:hover .image {
+    opacity: 0.3;
+}
+  
+.container:hover .middle {
+    opacity: 1;
+}
+#values button{
+    width: 139px;
+    height: 40px;
+    border-radius: 50px;
+    color: #0f0f0f;
+    border: none;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+#values button:hover{
+    background-color: #111111;
+    color: #fafafa;
+}

@@ -1,0 +1,34 @@
+/*video{
+    height: 100vh;
+    width: 100%;
+}
+div h1{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    font-size: 85px;
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+div a{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    font-size: 50px;
+    border-radius: 50px;
+    border: none;
+    text-decoration: none;
+}*/
+.a{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    overflow: auto;
+    overflow-x: hidden;
+
+}
+
